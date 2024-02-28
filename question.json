@@ -1,0 +1,405 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In RuneScape, one must complete the &quot;Dragon Slayer&quot; quest before equipping Rune Platelegs.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "The game &quot;Jetpack Joyride&quot; was created by &quot;Redbrick Studios&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "A Saxophone is a brass instrument.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "&quot;Green Eggs and Ham&quot; consists of only 50 different words.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Animals",
+      "question": "The internet browser Firefox is named after the Red Panda.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "St. Louis is the capital of the US State Missouri.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "The name of the main character of the video game &quot;The Legend of Zelda&quot;, is Zelda.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "Shaquille O&#039;Neal appeared in the 1997 film &quot;Space Jam&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In Kill La Kill, the weapon of the main protagonist is a katana. ",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "There are 6 legendary cards in &quot;Clash Royale&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Gosho Aoyama Made This Series: (Detective Conan / Case Closed!)",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In Terraria, you can craft the Cell Phone pre-hardmode.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In Heroes of the Storm, the Cursed Hollow map gimmick requires players to kill the undead to curse the enemy team.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Ottawa is the capital of Canada.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "There are 2 player roles in Trouble in Terrorist Town.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In the video game &quot;Splatoon&quot;, the playable characters were originally going to be rabbits instead of squids.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "The main character in the &quot;Half-Life&quot; franchise is named Morgan Freeman.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "In the original script of &quot;The Matrix&quot;, the machines used humans as additional computing power instead of batteries.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "Linus Torvalds created Linux and Git.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Michael Jackson wrote The Simpsons song &quot;Do the Bartman&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Romanian belongs to the Romance language family, shared with French, Spanish, Portuguese and Italian. ",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "A plant that has a life cycle for more than a year is known as an annual.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Muse is a British (English) rock band",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Mythology",
+      "question": "According to Greek Mythology, Atlas was an Olympian God.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Big the Cat is a playable character in &quot;Sonic Generations&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "Thomas Crapper was a plumber who invented the flushing toilet.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Vehicles",
+      "question": "BMW M GmbH is a subsidiary of BMW AG that focuses on car performance.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Slovakia is a member of European Union-",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "No Game No Life first aired in .",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Animals",
+      "question": "Cats have whiskers under their legs.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "Ada Lovelace is often considered the first computer programmer.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "History",
+      "question": "The Spitfire originated from a racing plane.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Minecraft can be played with a virtual reality headset.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "The book 1984 was published in 1949.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Donkey Kong was originally set to be a Popeye arcade game.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "The 2005 video game &quot;Call of Duty 2: Big Red One&quot; is not available on PC.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Animals",
+      "question": "The Axolotl is an amphibian that can spend its whole life in a larval state.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Gordon Freeman, the protagonist of &quot;Half-Life&quot;, is said to have once had a ponytail.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "California is larger than Japan.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "&quot;Metal Gear Solid 3: Snake Eater&quot; was released in 2004.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Roger Federer is a famous soccer player.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "Water always boils at 100&deg;C, 212&deg;F, 373.15K, no matter where you are.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Solid Snake is actually a clone from the DNA of Big Boss in the Metal Gear Solid series&#039; history.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Animals",
+      "question": "In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "There is a Donald Trump Board Game, which was made in 1989.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Politics",
+      "question": "One of Barack Obama&#039;s United States presidential campaign slogan&#039;s was &quot;Yes We Can&quot;.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Tony Hawk&#039;s extreme sports videogames revolve around performing professional BMX tricks.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Luigi is taller than Mario?",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    }
+  ]
+}
