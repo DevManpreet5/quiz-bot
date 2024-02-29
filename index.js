@@ -78,6 +78,18 @@ client.on("messageCreate", async (message) => {
       message.reply(`incorrect answer :( \n current score:${scoreboard.score}`);
     }
   }
+
+  if (message.content.includes("leaderboard") && !message.author.bot) {
+    const scorecards = await Leaderboard.find({}).sort({ score: -1 }).limit(10);
+
+    let res = " TOP  Winners are \n";
+
+    scorecards.map((val, ind) => {
+      res += `${ind + 1} ${val.name} ${val.score} \n`;
+    });
+
+    message.channel.send(res);
+  }
 });
 
 client.login(
